@@ -1,0 +1,20 @@
+C:\Users\mhmts\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\mhmts\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\mhmts\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\mhmts\source\repos\Notepad\Notepad\obj\Debug\WindowsFormsApp1.FrmMenu.resources
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\WindowsFormsApp1.FrmMenu.resources
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\derslerim için\hoca nın uygulamaları\Notepad\Notepad\obj\Debug\Notepad.pdb
